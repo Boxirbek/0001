@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+}
+
+.filters {
+  width: 20%;
+  height: 70%;
+  background-color: #f1f1f1;
+}
+
+.product-list {
+  width: 80%;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}

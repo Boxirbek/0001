@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "ASTRO A50 X",
+            "brand": "ASTRO",
+            "color": "Qora",
+            "price": 399.00,
+            "image": "path-to-image/astro-a50-x.png",
+            "description": "LIGHTSPEED Wireless Gaming Headset with Microphone + Base Station"
+        },
+        {
+            "id": 2,
+            "name": "Razer BlackShark V2 Pro",
+            "brand": "Razer",
+            "color": "Oq",
+            "price": 199.99,
+            "image": "path-to-image/razer-blackshark-v2-pro.png",
+            "description": "Wireless Esports Headset"
+        },
+        {
+            "id": 3,
+            "name": "HyperX Cloud Alpha Wireless",
+            "brand": "HyperX",
+            "color": "Qizil",
+            "price": 399.00,
+            "image": "path-to-image/hyperx-cloud-alpha-wireless.png",
+            "description": "LIGHTSPEED Wireless Gaming Headset with Microphone + Base Station"
+        },
+        {
+            "id": 4,
+            "name": "PRO X WIRELESS",
+            "brand": "Logitech",
+            "color": "Qora",
+            "price": 239.00,
+            "image": "path-to-image/pro-x-wireless.png",
+            "description": "Wireless headphones with lightspeed microphone"
+        },
+        {
+            "id": 5,
+            "name": "Sony-INZONE H9",
+            "brand": "Sony",
+            "color": "Oq",
+            "price": 298.00,
+            "image": "path-to-image/sony-inzone-h9.png",
+            "description": "Wireless Noise Canceling Gaming Headset"
+        },
+        {
+            "id": 6,
+            "name": "Razer Kraken V3",
+            "brand": "Razer",
+            "color": "Qora",
+            "price": 34.49,
+            "image": "path-to-image/razer-kraken-v3.png",
+            "description": "X Wired USB Gaming Headset: Lightweight Build"
+        }
+    ]
+}
